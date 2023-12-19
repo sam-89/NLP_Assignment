@@ -1,0 +1,13 @@
+
+.gitattributes
+*.csv
+venv/Lib/site-packages/__pycache__/decorator.cpython-312.pyc
+*.zip
+*.pyc
+venv/Lib/site-packages/asttokens-2.4.1.dist-info/METADATA
+venv/Lib/site-packages/asttokens-2.4.1.dist-info/INSTALLER
+venv/Lib/site-packages/asttokens-2.4.1.dist-info/LICENSE
+venv/Lib/site-packages/asttokens-2.4.1.dist-info/WHEEL
+venv/Lib/site-packages/asttokens-2.4.1.dist-info/RECORD
+venv/Lib/site-packages/bleach-6.1.0.dist-info/WHEEL
+venv
